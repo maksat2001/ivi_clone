@@ -1,0 +1,4 @@
+.card_group_container {
+    display: flex;
+    gap: 24px;
+}

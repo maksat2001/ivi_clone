@@ -1,0 +1,18 @@
+.card_hover_container {
+    background-color: rgba(7, 5, 14, .8);
+    z-index: 4;
+}
+
+.card_name_container {
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+
+.card_container {
+    width: 153px;
+}
+
+.card_image>img {
+    max-width: inherit;
+}

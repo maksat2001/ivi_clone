@@ -39,6 +39,7 @@
 
 .footer_item:hover {
     color: #ffffff;
+    transform: scale(1.05);
 }
 
 .write_chat {

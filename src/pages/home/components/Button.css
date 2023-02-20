@@ -16,7 +16,8 @@
     gap: 8px;
     background-color: #1f1b2e;
     border-color: #1f1b2e;
-    margin: 32px 0;
+    margin: 32px auto;
+    font-weight: 600;
 }
 
 .subscribe_button:hover {

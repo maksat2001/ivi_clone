@@ -1,4 +1,5 @@
 .home_container {
     max-width: 1240px;
     padding: 0 32px;
+    margin: auto;
 }
