@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ivi_clone/static/css/main.56e3551c.css",
+    "main.js": "/ivi_clone/static/js/main.67a0fd02.js",
+    "static/js/787.873f9f06.chunk.js": "/ivi_clone/static/js/787.873f9f06.chunk.js",
+    "static/media/slide1.jfif": "/ivi_clone/static/media/slide1.cea5ba6ffe55c79772be.jfif",
+    "static/media/slide2.jfif": "/ivi_clone/static/media/slide2.aebcbebb50d1e02f0455.jfif",
+    "static/media/cardImg.jfif": "/ivi_clone/static/media/cardImg.1af7d109484a0b570df6.jfif",
+    "static/media/lightning.svg": "/ivi_clone/static/media/lightning.1c85e452dc5dd0dff604dfb90f88357d.svg",
+    "static/media/logo.svg": "/ivi_clone/static/media/logo.fb02b15c28af2040be8e90aa332f118e.svg",
+    "static/media/subscribeBackground.svg": "/ivi_clone/static/media/subscribeBackground.d76d2dfa6c61960a1675.svg",
+    "index.html": "/ivi_clone/index.html",
+    "main.56e3551c.css.map": "/ivi_clone/static/css/main.56e3551c.css.map",
+    "main.67a0fd02.js.map": "/ivi_clone/static/js/main.67a0fd02.js.map",
+    "787.873f9f06.chunk.js.map": "/ivi_clone/static/js/787.873f9f06.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56e3551c.css",
+    "static/js/main.67a0fd02.js"
+  ]
+}
